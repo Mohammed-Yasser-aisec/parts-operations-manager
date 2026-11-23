@@ -18,4 +18,5 @@ Compile `main.cpp` using a C++ compiler (such as `g++` or Visual Studio / MSVC):
 
 ```bash
 g++ -std=c++17 main.cpp -o parts_operations_manager
+
 ./parts_operations_manager
